@@ -1,0 +1,12 @@
+torch>=2.0
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.13
+statsmodels>=0.14
+tqdm>=4.66
+neurogym==2.2.0
+jupyter>=1.0
+nbformat>=5.9
+nbconvert>=7.0
+ipykernel>=6.29
